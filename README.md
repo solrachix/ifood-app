@@ -64,6 +64,6 @@ Se quiser contribuir para essa aplicação, seja corrigindo algum problema, adic
 Depois que o *merge* da sua *pull request* for feito, você pode deletar a sua *branch*.
 
 ---
-Feito com ♥ por Carlos Miguel :wave: [Contato](https://www.linkedin.com/in/eugustavosouza/)
+Feito com ♥ por Carlos Miguel :wave: [Contato](https://www.linkedin.com/in/carlos-miguel-380413197)
 
 
