@@ -1,0 +1,9 @@
+{
+  "project_name": "Ifood App",
+  "type": "mobile",
+
+  "template_url": "./.github/demonstration.gif",
+  "logo_url": "./.github/logo.svg",
+
+  "mobile": "./"
+}
