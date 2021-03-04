@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img alt="Foodybite" src="https://i.imgur.com/C8vXh5l.gif">
+  <img alt="Foodybite" src="https://github.com/solrachix/ifood-app/raw/master/.github/demonstration.gif">
 </p>
 
 
