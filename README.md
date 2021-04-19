@@ -1,4 +1,4 @@
-<br>
+<br />
 <div align="center">
   <img width="300" alt="GitHub Badges" src="https://img.shields.io/badge/Foody-bite-green?style=for-the-badge" />
 </div>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img alt="Foodybite" src="https://github.com/solrachix/ifood-app/raw/master/.github/demonstration.gif">
+  <img alt="Foodybite" src="https://github.com/solrachix/ifood-app/raw/master/.github/demonstration.gif" />
 </p>
 
 
